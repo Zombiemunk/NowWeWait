@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Now We Wait</string>
+    <string name="nearby_stops">Nearby stops</string>
+    <string name="favorites">Favorites</string>
+    <string name="search">Search</string>
+    <string name="re_scan">Re-scan</string>
+    <string name="location_rationale">Now We Wait uses your location only to find the bus stops closest to you. It is never stored or sent to any server other than the Bizkaibus lookup.</string>
+    <string name="location_denied">Enable location to find nearby stops.</string>
+    <string name="offline_badge">Offline · %ds ago</string>
+    <string name="last_known_badge">Location unavailable · showing last known area</string>
+    
+    <!-- Added UI terms -->
+    <string name="pin_to_favorites">Pin to favorites</string>
+    <string name="unpin_from_favorites">Remove from favorites</string>
+    <string name="search_hint">Search stop by name or code...</string>
+    <string name="stop_code_label">Stop code: %s</string>
+    <string name="walking_distance">%d m</string>
+    <string name="no_arrivals">No scheduled arrivals</string>
+    <string name="minutes_remaining">%d min</string>
+    <string name="one_minute_remaining">1 min</string>
+    <string name="now_arriving">Arriving</string>
+    <string name="offline_warning">You are offline</string>
+    <string name="retry">Retry</string>
+    <string name="grant_permission">Grant permission</string>
+    <string name="background_location_rationale">To use auto-location in the widget, you need to grant background location permission (\"Allow all the time\"). Do you want to enable it?</string>
+</resources>

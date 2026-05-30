@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Now We Wait</string>
+    <string name="nearby_stops">Hurbileko geltokiak</string>
+    <string name="favorites">Gogokoak</string>
+    <string name="search">Bilatu</string>
+    <string name="re_scan">Berreskaneratu</string>
+    <string name="location_rationale">Now We Wait-ek zure kokapena hurbilen dauden autobus geltokiak bilatzeko bakarrik erabiltzen du. Ez da inoiz gordetzen eta ez zaio Bizkaibuseko kontsulta ez den zerbitzariri bidaltzen.</string>
+    <string name="location_denied">Aktibatu kokapena hurbileko geltokiak bilatzeko.</string>
+    <string name="offline_badge">Konexiorik gabe · duela %ds</string>
+    <string name="last_known_badge">Kokapena ez dago erabilgarri · azken eremua erakusten</string>
+    
+    <string name="pin_to_favorites">Gehitu gogokoetara</string>
+    <string name="unpin_from_favorites">Kendu gogokoetatik</string>
+    <string name="search_hint">Bilatu geltokia izenaren edo kodearen arabera...</string>
+    <string name="stop_code_label">Geltoki kodea: %s</string>
+    <string name="walking_distance">%d m</string>
+    <string name="no_arrivals">Ez dago programatutako helduerarik</string>
+    <string name="minutes_remaining">%d min</string>
+    <string name="one_minute_remaining">1 min</string>
+    <string name="now_arriving">Heldu da</string>
+    <string name="offline_warning">Konexiorik gabe zaude</string>
+    <string name="retry">Saiatu berriro</string>
+    <string name="grant_permission">Eman baimena</string>
+    <string name="background_location_rationale">Widget-ean kokapen automatikoa erabiltzeko, atzeko planoko kokapen baimena eman behar duzu ("Beti baimendu"). Aktibatu nahi duzu?</string>
+</resources>

@@ -1,0 +1,14 @@
+# IDEs and editors
+.idea/
+*.iml
+.vscode/
+
+# Local configuration files
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local temporary/scratch folders
+scratch/

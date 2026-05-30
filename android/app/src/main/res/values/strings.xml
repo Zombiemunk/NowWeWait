@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Now We Wait</string>
+    <string name="nearby_stops">Paradas cercanas</string>
+    <string name="favorites">Favoritos</string>
+    <string name="search">Buscar</string>
+    <string name="re_scan">Volver a escanear</string>
+    <string name="location_rationale">Now We Wait usa tu ubicación solo para buscar las paradas de autobús más cercanas. Nunca se guarda ni se envía a ningún otro servidor que no sea la consulta de Bizkaibus.</string>
+    <string name="location_denied">Activa la ubicación para buscar paradas cercanas.</string>
+    <string name="offline_badge">Sin conexión · hace %ds</string>
+    <string name="last_known_badge">Ubicación no disponible · mostrando última zona</string>
+    
+    <!-- Added UI terms -->
+    <string name="pin_to_favorites">Añadir a favoritos</string>
+    <string name="unpin_from_favorites">Quitar de favoritos</string>
+    <string name="search_hint">Buscar parada por nombre o código...</string>
+    <string name="stop_code_label">Código de parada: %s</string>
+    <string name="walking_distance">%d m</string>
+    <string name="no_arrivals">No hay llegadas programadas</string>
+    <string name="minutes_remaining">%d min</string>
+    <string name="one_minute_remaining">1 min</string>
+    <string name="now_arriving">Llegando</string>
+    <string name="offline_warning">Estás sin conexión</string>
+    <string name="retry">Reintentar</string>
+    <string name="grant_permission">Dar permiso</string>
+    <string name="background_location_rationale">Para usar la localización automática en el widget, necesitas dar permiso de ubicación en segundo plano ("Permitir siempre"). ¿Quieres activarlo?</string>
+</resources>
